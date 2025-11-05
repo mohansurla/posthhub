@@ -1,0 +1,32 @@
+#node modules
+node_modules/
+
+#environment variables
+.env
+
+#system files
+.DS_Store
+npm-debug.log
+yarn-error.log
+.vscode/
+#build output
+dist/
+build/
+out/
+#logs
+logs/
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+#coverage directory
+coverage/
+.nyc_output/
+#temporary files
+tmp/
+temp/
+#IDE files
+.idea/
+*.suo
+*.ntvs*
